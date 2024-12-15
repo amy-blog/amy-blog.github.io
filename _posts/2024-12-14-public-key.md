@@ -2,9 +2,6 @@
 layout: post
 title: Public Key
 ---
-
-# Amy's PGP Public Key:
-
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
